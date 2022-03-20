@@ -1,2 +1,0 @@
-# LearnHouse
-record some konwledge
