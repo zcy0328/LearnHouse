@@ -95,4 +95,15 @@ Console tabs 可使用其返回debug的信息
 #### 2）.ScriptableObject
 #### 3）.单例（这个只是看到过，但没有用过）
 #### 4）.广播 message（这个只用到过一点点）
+#### 5) .PlayerPrefs
 
+### 6.
+<img width="841" alt="截屏2022-04-06 04 21 43" src="https://user-images.githubusercontent.com/97930502/161842414-88904571-24e5-44ce-90a1-ae9fe36b1522.png">
+记录下这段的代码的原因是，我觉得它神奇的点在于，他直接用image作为存储的关键字，这和PlayerPrefs的做法有些类似，但又比PlayerPrefs更有意思，他应该能记录更多除了字符串和图片以外的东西
+<img width="579" alt="截屏2022-04-06 04 25 35" src="https://user-images.githubusercontent.com/97930502/161843031-3ffc9cfb-9cef-4ddd-b709-b0ac91b19001.png">
+好吧，只是我对GUI.Box的认识太浅了
+
+### 7.有关随气候变换的天空盒
+起初，我认为天空盒变换只是单纯的改变天空和的颜色或者图文样式，后来才知道，天空盒的更换可能会带来场景里的光源的强度或者类型也要进行变化，看到这里的时候，觉得黑夜版灵境有着落了，但是之后的内容越看越懵，以后还得再回顾！
+
+### 8. 还没记完
